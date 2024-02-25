@@ -40,7 +40,7 @@ I occasionally write about [Topic/Interest]. Here are some of my recent blog pos
 
 ## Get in Touch
 
-- LinkedIn: [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sanjeet-kumar-b4a462209/)
+- LinkedIn: <a href="https://www.linkedin.com/in/sanjeet-kumar07/"><img width="24" height="24" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
