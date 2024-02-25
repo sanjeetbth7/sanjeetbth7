@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Sanjeet Kumar 👋
 
 ## About Me
 
@@ -7,7 +7,7 @@ I'm currently onthe journey towards a Bachelor's in CSBS. Thriving in collaborat
 
 - 🔭 I’m currently working on []
 - 🌱 I’m currently learning [React.js]
-- 👯 I’m looking to collaborate on []
+- 👯 I’m looking to collaborate on [MERN stack project integrated with ML]
 - 💬 Ask me about [Web Development]
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjeet-kumar-b4a462209/)
 
@@ -20,14 +20,14 @@ I'm currently onthe journey towards a Bachelor's in CSBS. Thriving in collaborat
 
 Here are a few projects I'm proud of:
 
-1. [SmartzAgri](Link): Short description.
-2. [Employee Management System](Link): Short description.
-3. [Docup](Link): Short description.
+1. [SmartzAgri](https://github.com/sanjeetbth7/SmartzAgri): SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation.
+2. [Employee Management System](https://github.com/sanjeetbth7/Employee-Management-System): Employee Management System (EMS) is a SQL-based project ,created for dbms college project, organizing employee data with features like attendance, payroll, leave management.
+3. [DocUp](https://github.com/sanjeetbth7/DocUp): DocUp is quick and easy way for booking an appointment for patients with their preferred doctors. Currently in rural areas, People still have to travel hundreds of kilometers just to book an appointment.
 
 ## GitHub Achievements
 
-- [YOLO](https://github.com/sanjeetbth7?tab=achievements&achievement=yolo)
-- [Pull Shark](https://github.com/sanjeetbth7?tab=achievements&achievement=pull-shark)
+- ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+- ![Pull Shark](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 
 
 ## Blog Posts
