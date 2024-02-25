@@ -2,7 +2,7 @@
 
 ## About Me
 
- Aspiring Web Developer | CSBS Student | Team Enthusiast
+ **Aspiring Web Developer | CSBS Student | Team Enthusiast**
 I'm currently onthe journey towards a Bachelor's in CSBS. Thriving in collaborativeenvironments, I've dived into numerous Hackathons, finding joy in teamwork.
 
 - 🔭 I’m currently working on []
