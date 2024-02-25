@@ -25,8 +25,7 @@ Here are a few projects I'm proud of:
 3. [DocUp](https://github.com/sanjeetbth7/DocUp): DocUp is quick and easy way for booking an appointment for patients with their preferred doctors. Currently in rural areas, People still have to travel hundreds of kilometers just to book an appointment.
 
 ## GitHub Achievements
-<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="50" height="50">
-<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="YOLO" width="50" height="50">
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" alt="YOLO" width="50" height="50"> <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" alt="YOLO" width="50" height="50">
 
 
 
