@@ -7,7 +7,7 @@ I'm currently onthe journey towards a Bachelor's in CSBS. Thriving in collaborat
 - 🌱 I’m currently learning [React.js]
 - 👯 I’m looking to collaborate on [MERN stack project integrated with ML]
 - 💬 Ask me about [Web Development]
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjeet-kumar-b4a462209/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sanjeet-kumar07/)
 
 ## Skills
 
@@ -40,7 +40,7 @@ I occasionally write about [Topic/Interest]. Here are some of my recent blog pos
 
 ## Get in Touch
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/sanjeet-kumar-b4a462209/)
+- LinkedIn: [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sanjeet-kumar-b4a462209/)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just want to connect!
 
