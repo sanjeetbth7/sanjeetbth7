@@ -21,12 +21,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sanjeet-kumar07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@getsetexplore-science" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@getsetexplore-science" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanjeet_bth" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjeet_bth" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sanjeet007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanjeet007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanjeetbth7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeetbth7" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/user/sanjeetbth7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sanjeetbth7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sanjeet-kumar07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjeet-kumar07" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@getsetexplore-science" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@getsetexplore-science" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sanjeet_bth" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanjeet_bth" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/sanjeet007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sanjeet007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sanjeetbth7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjeetbth7" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/sanjeetbth7" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="user/sanjeetbth7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
