@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjeetbth7" alt="sanjeetbth7" /></a> </p>
 
-Hi There, I’m Sanjeet Kumar, currently pursuing a Bachelor’s in CSBS. I excel in collaborative environments, having participated in numerous Hackathons. Beyond textbooks, I’ve delved into the MERN stack, creating projects like SmartzAgri, DocUp, an Employee Management System, and my personal portfolio. Currently, I’m leading the development of ”GetSetExplore,” a Blog Application Website, enabling multiple writers and interactive features like liking and commenting.
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1W5L6ZcxmKkIxhCuqspW_BnjI5nUCcBZx/view](https://drive.google.com/file/d/1W5L6ZcxmKkIxhCuqspW_BnjI5nUCcBZx/view)
+Hi There, I’m Sanjeet Kumar, currently pursuing a Bachelor’s in CSBS. I excel in collaborative environments, having participated in numerous Hackathons. Beyond textbooks, I’ve delved into the MERN stack, creating projects like Krishi Nexus, GetSetExplore, Employee Management System, and my personal portfolio. Currently, I’m leading the development of ”GetSetExplore,” a Blog Application Website, enabling multiple writers and interactive features like liking and commenting.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,8 +30,8 @@ Hi There, I’m Sanjeet Kumar, currently pursuing a Bachelor’s in CSBS. I exce
 
 Here are a few projects I'm proud of:
 
-1. [Krishi Nexus](https://github.com/sanjeetbth7/Krishi-Nexus): Krishi Nexus is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. [live link](https://krishi-nexus.vercel.app)
-2. [GetSetExplore](https://github.com/sanjeetbth7/Blog-Application): Employee Management System (EMS) is a SQL-based project ,created for dbms college project, organizing employee data with features like attendance, payroll, leave management. [live link](https://getsetexplore.onrender.com)
+1. [Krishi Nexus](https://github.com/sanjeetbth7/Krishi-Nexus): Krishi Nexus is a platform for data-driven crop recommendations powered by advanced Machine Learning models. Our mission is to revolutionize agriculture by providing farmers with actionable insights that maximize yield, optimize investments, and ensure sustainable farming practices. [live link](https://krishi-nexus.vercel.app)
+2. [GetSetExplore](https://github.com/sanjeetbth7/Blog-Application): GetSetExplore is a platform for innovative technology insights and tutorials powered by a passion for coding and creative exploration. Our mission is to inspire and educate our community by providing expert content that drives learning, innovation, and collaboration. [live link](https://getsetexplore.onrender.com)
 3. [DocUp](https://github.com/sanjeetbth7/DocUp): DocUp is quick and easy way for booking an appointment for patients with their preferred doctors. Currently in rural areas, People still have to travel hundreds of kilometers just to book an appointment.
 
 ## GitHub Achievements
