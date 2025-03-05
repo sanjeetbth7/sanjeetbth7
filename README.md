@@ -32,8 +32,8 @@ Hi There, I’m Sanjeet Kumar, currently pursuing a Bachelor’s in CSBS. I exce
 
 Here are a few projects I'm proud of:
 
-1. [SmartzAgri](https://github.com/sanjeetbth7/SmartzAgri): SmartzAgri is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation.
-2. [Employee Management System](https://github.com/sanjeetbth7/Employee-Management-System): Employee Management System (EMS) is a SQL-based project ,created for dbms college project, organizing employee data with features like attendance, payroll, leave management.
+1. [Krishi Nexus](https://github.com/sanjeetbth7/Krishi-Nexus): Krishi Nexus is an innovative agricultural solution designed to revolutionize traditional farming practices by providing personalized and data-driven recommendations for crop cultivation. [live link](https://krishi-nexus.vercel.app)
+2. [GetSetExplore](https://github.com/sanjeetbth7/Blog-Application): Employee Management System (EMS) is a SQL-based project ,created for dbms college project, organizing employee data with features like attendance, payroll, leave management. [live link](https://getsetexplore.onrender.com)
 3. [DocUp](https://github.com/sanjeetbth7/DocUp): DocUp is quick and easy way for booking an appointment for patients with their preferred doctors. Currently in rural areas, People still have to travel hundreds of kilometers just to book an appointment.
 
 ## GitHub Achievements
